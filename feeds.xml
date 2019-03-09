@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feeds title="Top Stories">
+<feed file="cbs.html" name="Breaking News: CBS News" url="https://www.cbsnews.com/latest/rss/main"/>
+<feed file="cnn.html" name="CNN.com - Top Stories" url="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+<feed file="fox.html" name="FOXNews.com" url="http://feeds.foxnews.com/foxnews/latest"/>
+<feed file="nbc.html" name="NBCNews.com: Top NBCNews headlines" url="http://rss.msnbc.msn.com/id/3032091/device/rss/rss.xml"/>
+</feeds>
